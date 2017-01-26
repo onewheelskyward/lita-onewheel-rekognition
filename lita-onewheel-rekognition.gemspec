@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'lita-onewheel-rekognition'
-  spec.version       = '0.3.0'
+  spec.version       = '0.0.0'
   spec.authors       = ['Andrew Kreps']
   spec.email         = ['andrew.kreps@gmail.com']
   spec.description   = %q{Amazon Rekognition implementation}
